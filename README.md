@@ -1,65 +1,76 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=8597F7&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Pedro+and+that's+my+Github+page!)](https://git.io/typing-svg)
+## Hi there 👋
 
-<h2 align="left">🖥 Language and Tools</h2>
+<p>
+<a href="https://www.linkedin.com/in/pedro-pelicioni">
+<img height="20" src="./icons/linkedin.svg" alt="LinkedIn"/>
+</a>
 
-###
+<img src="https://img.shields.io/badge/Rust-Systems%20Engineer-orange" height="20" alt="Rust"/>
+<img src="https://img.shields.io/badge/Distributed-Systems-blue" height="20" alt="Distributed Systems"/>
+<img src="https://img.shields.io/badge/Blockchain-Infrastructure-purple" height="20" alt="Blockchain"/>
+<img src="https://img.shields.io/badge/Cloud-AWS-yellow" height="20" alt="AWS"/>
+<img src="https://img.shields.io/badge/Focus-Stellar%20%2F%20Soroban-green" height="20" alt="Stellar"/>
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="27" alt="typescript logo"  />
-  
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="27" alt="nestjs logo"  />
-  
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="27" alt="prisma logo"  />
-  
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="27" alt="amazonwebservices logo"  />
-  
-  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" height="27" alt="solidity logo"  />
-  
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="27" alt="react logo"  />
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="27" alt="html5 logo"  />
-  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="27" alt="css3 logo"  />
-  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="27" alt="javascript logo"  />
-  
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="27" alt="angularjs logo"  />
+I am a Software Engineer with 10+ years of experience building production-grade systems, including 5+ years focused on blockchain infrastructure, distributed systems, and high-performance backend engineering.
 
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="27" alt="go logo"  />
-  
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge" height="27" alt="apachekafka logo"  />
-  
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="27" alt="git logo"  />
-  
-  <img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white&style=for-the-badge" height="27" alt="ionic logo"  />
+My work sits at the intersection of distributed systems, backend infrastructure, and blockchain protocols, with a strong focus on Rust, scalability, and reliability in mission-critical environments.
+
+---
+
+### 🔭 What I do
+
+I design and build high-performance distributed systems and backend infrastructure for blockchain applications, with experience spanning:
+
+- Distributed ledger systems and blockchain infrastructure
+- Backend services and APIs at scale
+- Cloud-native architectures (AWS, Kubernetes, Terraform)
+- Performance engineering and system reliability (SRE practices)
+- Smart contracts and blockchain protocols (Stellar/Soroban, EVM ecosystems)
+
+I am particularly focused on building systems that are reliable, observable, and capable of operating under high throughput and strict financial constraints.
+
+---
+
+### ⚙️ Core Areas
+
+- Rust systems programming
+- Distributed systems architecture
+- Blockchain infrastructure (Stellar / Soroban)
+- Backend engineering (APIs, services, scalability)
+- Cloud infrastructure (AWS, Kubernetes, Terraform)
+- Performance optimization & reliability engineering
+- System design & architectural RFCs
+
+---
+
+### 🚀 Experience Highlights
+
+- Blockchain infrastructure engineering for production-grade systems using Rust and cloud-native architectures
+- Design and operation of distributed backend systems supporting high-throughput blockchain workloads
+- Infrastructure-as-code and scalable cloud environments across multiple production systems
+- SRE practices including CI/CD pipelines, observability, and reliability engineering
+- Smart contract and blockchain integration systems for financial-grade applications
+
+---
+
+### 🌍 Focus
+
+I am deeply interested in:
+
+- Distributed systems and consensus mechanisms
+- Blockchain protocol design and execution layers
+- Financial infrastructure built on decentralized networks
+- High-performance backend systems at global scale
+
+---
+
+### 📫 How to reach me
+
+- LinkedIn: [linkedin.com/in/pedro-pelicioni](https://www.linkedin.com/in/pedro-pelicioni)
+- Email: available via LinkedIn
+- Open to discussions around distributed systems, blockchain infrastructure, and Rust engineering roles
+
+---
+
  
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="27" alt="mongodb logo"  />
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="27" alt="python logo"  />
-</div>
-
-###
-
-<h2 align="left">📞 How to reach me</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/pedro-pelicioni/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="27" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">🗣️ Day to day tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="27" alt="trello logo"  />
-  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" height="27" alt="slack logo"  />
-  <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white" height="27" alt="meet logo" />
-</div>
-</br>
-
