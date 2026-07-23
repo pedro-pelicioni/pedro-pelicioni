@@ -20,7 +20,7 @@ Currently **Principal Engineer at [NearX](https://github.com/Nearx-Labs)**, lead
 
 **Vants**, a non-custodial DeFi venture on Stellar: a global account for crypto yield and everyday spending through regional rails (Pix, SPEI, CBU). SDF grant backed, InstaAwards winner.
 
-Previously at **[Fluxo](https://www.fluxo.co)**, building on/off-ramp financial systems, smart accounts, and account abstraction flows (.NET, Web3Auth, Xion, Cosmos tooling).
+Previously at **[Fluxo](https://www.fluxo.co)**, building on/off-ramp financial systems, smart accounts, and account abstraction flows (.NET, Web3Auth, Stellar tooling).
 
 ## 🌍 Community
 
